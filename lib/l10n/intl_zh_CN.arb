@@ -1,0 +1,44 @@
+{
+  "@@locale": "zh_CN",
+  "appName": "留言抽奖機",
+  "loading" : "载入中...",
+  "btn_OK" : "OK",
+  "btn_Next" : "下一步",
+  "btn_Retry" : "重试",
+
+  "alert_error": "错误",
+  "alert_no_network" : "因网络连线出现问题，请检查你的网络连线后再试。",
+
+  "menu_home" : "主頁",
+  "menu_how_to_use" : "使用说明",
+  "menu_remove_ads" : "移除广告",
+
+  "mainPage_Title": "Youtube留言抽奖工具",
+  "mainPage_data_to": " 至 ",
+  "mainPage_label_YT_Video_Link" : "Youtube影片连结 *",
+  "mainPage_hints_YT_Video_Link" : "https://youtu.be/XXXXXX",
+  "mainPage_alert_YT_Video_Link" : "请轮入有效影片连结",
+  "mainPage_label_Comment_Date" : "留言日期 *",
+  "mainPage_alert_Comment_Date" : "请选择有效日期",
+  "mainPage_label_Keyword" : "留言关键字 (可选)",
+
+  "candidatePage_Title": "候选名单",
+
+  "drawPage_Title": "抽奖",
+  "drawPage_Congratulations": "\uD83C\uDF8A恭喜!恭喜!\uD83C\uDF8A",
+
+  "htd_desc" : "此APP可以撷取符合条件的Youtube影片留言，并作出随机抽奖。\n",
+  "htd_step1" : "第一步：",
+  "htd_step1_1" : "输入Youtube影片网址",
+  "htd_step1_or" : "或",
+  "htd_step1_2" : "于Youtube分享影片至此APP",
+  "htd_step2" : "第二步：",
+  "htd_step2_1" : "选择撷取的留言日期范围和输入留言关键字（可选），并按「下一步」。 ",
+  "htd_step2_2" : "注意：处理时间会因留言数量而有所不同。",
+  "htd_step3" : "第三步：",
+  "htd_step3_1" : "预览符合条件的留言。",
+  "htd_step3_2" : "提示：按条目栏可以查看留言内容。",
+  "htd_step4" : "第四步：",
+  "htd_step4_1" : "滑动搅珠机抽选中奖者。\n(可重覆抽奖和中奖)",
+  "htd_step4_2" : "提示：按中奖者的头像或名字可以浏览中奖者的Youtube频道。"
+}
